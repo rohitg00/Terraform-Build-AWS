@@ -15,7 +15,7 @@ Terraform is a tool for building, changing, and versioning infrastructure safely
 ## Create a snapshot of EBS.
 
 # Blog
-[BLog for AutoML](https://medium.com/@ghumare64/terraform-is-a-secret-towards-cloud-automation-%EF%B8%8F-f9c9463b0304)
+[BLog for Terraform Cloud Automation](https://medium.com/@ghumare64/terraform-is-a-secret-towards-cloud-automation-%EF%B8%8F-f9c9463b0304)
 
 # Author
 [Rohit Ghumare](https://github.com/rohitg00)
