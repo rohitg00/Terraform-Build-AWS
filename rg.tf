@@ -161,7 +161,8 @@ resource "aws_instance" "web" {
     Name = "Web-Env"
     env  = "Production"
   } 
-# dikh rhah  kya  kha missing h? k
+  
+  
   depends_on = [
     aws_security_group.web-SG,
     aws_key_pair.generated_key
